@@ -1,0 +1,591 @@
+{
+  "timeline": [
+    {
+      "date": "2024-07-13",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 1
+    },
+    {
+      "date": "2024-08-15",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 1
+    },
+    {
+      "date": "2024-09-01",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 2
+    },
+    {
+      "date": "2024-10-03",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 2
+    },
+    {
+      "date": "2024-11-17",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 5
+    },
+    {
+      "date": "2024-11-18",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 1
+    },
+    {
+      "date": "2024-11-20",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 5
+    },
+    {
+      "date": "2025-03-12",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 7
+    },
+    {
+      "date": "2025-03-14",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 3
+    },
+    {
+      "date": "2025-04-03",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 2
+    },
+    {
+      "date": "2025-05-04",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 6
+    },
+    {
+      "date": "2025-05-05",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 1
+    },
+    {
+      "date": "2025-05-07",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 1
+    },
+    {
+      "date": "2025-05-12",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 1
+    },
+    {
+      "date": "2025-06-10",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 2
+    },
+    {
+      "date": "2025-06-17",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 2
+    },
+    {
+      "date": "2025-07-03",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 4
+    },
+    {
+      "date": "2025-07-06",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 2
+    },
+    {
+      "date": "2025-07-15",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 8
+    },
+    {
+      "date": "2025-07-19",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 2
+    },
+    {
+      "date": "2025-07-23",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 1
+    },
+    {
+      "date": "2025-07-25",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 5
+    },
+    {
+      "date": "2025-07-26",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 6
+    },
+    {
+      "date": "2025-07-30",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 1
+    },
+    {
+      "date": "2025-08-09",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 8
+    },
+    {
+      "date": "2025-08-12",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 3
+    },
+    {
+      "date": "2025-08-24",
+      "music_count": 1,
+      "video_count": 7,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-08-25",
+      "music_count": 2,
+      "video_count": 28,
+      "commit_count": 30
+    },
+    {
+      "date": "2025-08-26",
+      "music_count": 16,
+      "video_count": 142,
+      "commit_count": 158
+    },
+    {
+      "date": "2025-08-27",
+      "music_count": 0,
+      "video_count": 1,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-08-28",
+      "music_count": 0,
+      "video_count": 5,
+      "commit_count": 5
+    },
+    {
+      "date": "2025-08-29",
+      "music_count": 0,
+      "video_count": 6,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-08-30",
+      "music_count": 5,
+      "video_count": 33,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-08-31",
+      "music_count": 7,
+      "video_count": 11,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-09-02",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 2
+    },
+    {
+      "date": "2025-09-06",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 1
+    },
+    {
+      "date": "2025-10-01",
+      "music_count": 1,
+      "video_count": 2,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-10-02",
+      "music_count": 1,
+      "video_count": 2,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-10-03",
+      "music_count": 3,
+      "video_count": 23,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-10-04",
+      "music_count": 17,
+      "video_count": 71,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-10-05",
+      "music_count": 90,
+      "video_count": 260,
+      "commit_count": 350
+    },
+    {
+      "date": "2025-10-06",
+      "music_count": 0,
+      "video_count": 3,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-10-07",
+      "music_count": 0,
+      "video_count": 4,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-10-08",
+      "music_count": 4,
+      "video_count": 22,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-10-09",
+      "music_count": 2,
+      "video_count": 27,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-10-10",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 2
+    },
+    {
+      "date": "2025-10-11",
+      "music_count": 2,
+      "video_count": 2,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-10-17",
+      "music_count": 3,
+      "video_count": 19,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-10-18",
+      "music_count": 0,
+      "video_count": 1,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-10-20",
+      "music_count": 1,
+      "video_count": 8,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-10-21",
+      "music_count": 6,
+      "video_count": 33,
+      "commit_count": 39
+    },
+    {
+      "date": "2025-10-23",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 3
+    },
+    {
+      "date": "2025-10-28",
+      "music_count": 4,
+      "video_count": 23,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-10-29",
+      "music_count": 4,
+      "video_count": 22,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-10-30",
+      "music_count": 0,
+      "video_count": 1,
+      "commit_count": 1
+    },
+    {
+      "date": "2025-10-31",
+      "music_count": 5,
+      "video_count": 38,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-01",
+      "music_count": 3,
+      "video_count": 11,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-03",
+      "music_count": 80,
+      "video_count": 576,
+      "commit_count": 656
+    },
+    {
+      "date": "2025-11-04",
+      "music_count": 0,
+      "video_count": 18,
+      "commit_count": 18
+    },
+    {
+      "date": "2025-11-05",
+      "music_count": 12,
+      "video_count": 46,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-06",
+      "music_count": 25,
+      "video_count": 120,
+      "commit_count": 145
+    },
+    {
+      "date": "2025-11-07",
+      "music_count": 2,
+      "video_count": 12,
+      "commit_count": 14
+    },
+    {
+      "date": "2025-11-08",
+      "music_count": 5,
+      "video_count": 34,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-09",
+      "music_count": 3,
+      "video_count": 12,
+      "commit_count": 15
+    },
+    {
+      "date": "2025-11-10",
+      "music_count": 0,
+      "video_count": 1,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-11",
+      "music_count": 24,
+      "video_count": 147,
+      "commit_count": 171
+    },
+    {
+      "date": "2025-11-12",
+      "music_count": 1,
+      "video_count": 1,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-13",
+      "music_count": 8,
+      "video_count": 8,
+      "commit_count": 16
+    },
+    {
+      "date": "2025-11-14",
+      "music_count": 1,
+      "video_count": 3,
+      "commit_count": 4
+    },
+    {
+      "date": "2025-11-15",
+      "music_count": 4,
+      "video_count": 28,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-16",
+      "music_count": 0,
+      "video_count": 5,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-17",
+      "music_count": 8,
+      "video_count": 81,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-18",
+      "music_count": 21,
+      "video_count": 102,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-19",
+      "music_count": 9,
+      "video_count": 27,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-20",
+      "music_count": 1,
+      "video_count": 2,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-21",
+      "music_count": 4,
+      "video_count": 23,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-22",
+      "music_count": 8,
+      "video_count": 9,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-23",
+      "music_count": 2,
+      "video_count": 3,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-24",
+      "music_count": 8,
+      "video_count": 32,
+      "commit_count": 40
+    },
+    {
+      "date": "2025-11-25",
+      "music_count": 52,
+      "video_count": 351,
+      "commit_count": 403
+    },
+    {
+      "date": "2025-11-26",
+      "music_count": 3,
+      "video_count": 27,
+      "commit_count": 30
+    },
+    {
+      "date": "2025-11-27",
+      "music_count": 1,
+      "video_count": 28,
+      "commit_count": 29
+    },
+    {
+      "date": "2025-11-28",
+      "music_count": 32,
+      "video_count": 138,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-29",
+      "music_count": 7,
+      "video_count": 70,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-11-30",
+      "music_count": 2,
+      "video_count": 10,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-12-01",
+      "music_count": 2,
+      "video_count": 1,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-12-02",
+      "music_count": 1,
+      "video_count": 1,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-12-03",
+      "music_count": 0,
+      "video_count": 2,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-12-04",
+      "music_count": 0,
+      "video_count": 2,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-12-05",
+      "music_count": 0,
+      "video_count": 1,
+      "commit_count": 1
+    },
+    {
+      "date": "2025-12-06",
+      "music_count": 0,
+      "video_count": 0,
+      "commit_count": 4
+    },
+    {
+      "date": "2025-12-07",
+      "music_count": 4,
+      "video_count": 6,
+      "commit_count": 0
+    },
+    {
+      "date": "2025-12-08",
+      "music_count": 0,
+      "video_count": 12,
+      "commit_count": 12
+    }
+  ],
+  "totals": {
+    "total_music": 507,
+    "total_videos": 2744,
+    "total_commits": 2231
+  },
+  "correlations": {
+    "music_only": {
+      "avg_commits": 0,
+      "days": 0
+    },
+    "video_only": {
+      "avg_commits": 2.6,
+      "days": 14
+    },
+    "both": {
+      "avg_commits": 43.8,
+      "days": 48
+    },
+    "neither": {
+      "avg_commits": 3.0,
+      "days": 31
+    }
+  },
+  "insights": {
+    "music_impact": "+1402.9%",
+    "video_impact": "+1036.7%",
+    "synergy_boost": "+1360.0%",
+    "best_pattern": "Both"
+  }
+}

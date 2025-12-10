@@ -1,0 +1,176 @@
+repo,message,timestamp,date,hour,day_of_week
+AegisX,iDEA,2025-09-06T07:45:15Z,2025-09-06,7,Saturday
+AegisX,Update README.md,2025-08-28T04:35:01Z,2025-08-28,4,Thursday
+AegisX,first commit,2025-08-28T04:34:18Z,2025-08-28,4,Thursday
+arcio-mhp,new allighnment of username and logout button,2025-09-02T09:20:16Z,2025-09-02,9,Tuesday
+arcio-mhp,made changes side from left to right side,2025-09-02T08:49:27Z,2025-09-02,8,Tuesday
+arcio-mhp,removed md file,2025-08-28T02:56:30Z,2025-08-28,2,Thursday
+arcio-mhp,proto 1,2025-08-28T02:51:29Z,2025-08-28,2,Thursday
+arcio-mhp,Initial commit,2025-08-26T13:09:17Z,2025-08-26,13,Tuesday
+AudPhy,new,2025-08-28T03:27:59Z,2025-08-28,3,Thursday
+AudPhy,Initial commit,2025-08-26T10:57:41Z,2025-08-26,10,Tuesday
+AURA,Revise README ,2025-08-25T16:17:59Z,2025-08-25,16,Monday
+AURA,Add files via upload,2025-08-25T16:15:37Z,2025-08-25,16,Monday
+ClarityLens,intial commit,2025-10-21T17:30:01Z,2025-10-21,17,Tuesday
+ClarityLens,Revise README,2025-10-21T16:29:34Z,2025-10-21,16,Tuesday
+ClarityLens,Initial commit,2025-10-21T16:29:08Z,2025-10-21,16,Tuesday
+CypherAI,Updated Coumentation,2025-11-27T13:33:32Z,2025-11-27,13,Thursday
+CypherAI,Agents Deployed,2025-11-26T12:35:10Z,2025-11-26,12,Wednesday
+CypherAI,dockerignore added,2025-11-26T11:34:38Z,2025-11-26,11,Wednesday
+CypherAI,Add architecture diagrams and deployment files,2025-11-26T11:11:55Z,2025-11-26,11,Wednesday
+CypherAI,update,2025-11-25T21:02:56Z,2025-11-25,21,Tuesday
+CypherAI,docs,2025-11-25T20:09:47Z,2025-11-25,20,Tuesday
+CypherAI,Doc,2025-11-25T20:02:09Z,2025-11-25,20,Tuesday
+CypherAI,Documentation Added,2025-11-25T19:45:27Z,2025-11-25,19,Tuesday
+CypherAI,workflow added to readme,2025-11-25T19:41:36Z,2025-11-25,19,Tuesday
+CypherAI,workflow added to readme,2025-11-25T19:30:43Z,2025-11-25,19,Tuesday
+CypherAI,Add interactive workflow diagrams with GitHub auto-rendering,2025-11-25T19:26:23Z,2025-11-25,19,Tuesday
+CypherAI,Add production example and API setup guide,2025-11-25T18:40:07Z,2025-11-25,18,Tuesday
+CypherAI,Update README for production-ready deployment (removed demo mode),2025-11-25T18:34:10Z,2025-11-25,18,Tuesday
+CypherAI,Remove demo mode - production-ready with API key validation,2025-11-25T18:25:04Z,2025-11-25,18,Tuesday
+CypherAI,Test GitHub Actions secret configuration,2025-11-25T18:00:50Z,2025-11-25,18,Tuesday
+CypherAI,Add comprehensive security audit report,2025-11-25T17:48:19Z,2025-11-25,17,Tuesday
+CypherAI,Add GitHub Actions CI/CD workflows with setup guide,2025-11-25T17:43:16Z,2025-11-25,17,Tuesday
+CypherAI,Updated Readme,2025-11-24T19:31:18Z,2025-11-24,19,Monday
+CypherAI,Add course integration documentation and architecture visualization,2025-11-24T19:16:28Z,2025-11-24,19,Monday
+CypherAI,Complete Cypher AI multi-agent DevSecOps system implementation,2025-11-24T16:53:57Z,2025-11-24,16,Monday
+CypherAI,Readme,2025-11-24T15:52:29Z,2025-11-24,15,Monday
+ExoticAnimalDB,Add database verification demo script for presentations,2025-11-13T06:35:37Z,2025-11-13,6,Thursday
+ExoticAnimalDB,"Add full-stack PostgreSQL database with web UI - Complete exotic animal management system with Express API, modern frontend, and comprehensive CRUD operations",2025-11-13T06:16:26Z,2025-11-13,6,Thursday
+ExoticAnimalDB,review3,2025-10-30T03:31:42Z,2025-10-30,3,Thursday
+ExoticAnimalDB,renamed,2025-10-23T04:21:41Z,2025-10-23,4,Thursday
+ExoticAnimalDB,added DataBase,2025-10-23T04:10:33Z,2025-10-23,4,Thursday
+ExoticAnimalDB,Initial commit,2025-10-23T03:55:48Z,2025-10-23,3,Thursday
+FashionFoward,Merge branch 'main' into main,2024-11-20T06:49:14Z,2024-11-20,6,Wednesday
+FashionFoward,Create README.md,2024-11-20T06:48:17Z,2024-11-20,6,Wednesday
+FashionFoward,Merge branch 'main' of https://github.com/devPagma/FashionFoward,2024-11-20T06:33:01Z,2024-11-20,6,Wednesday
+FashionFoward,main,2024-11-20T06:32:49Z,2024-11-20,6,Wednesday
+FashionFoward,Delete README.md,2024-11-20T06:28:45Z,2024-11-20,6,Wednesday
+FashionFoward,Update README.md,2024-11-18T03:41:58Z,2024-11-18,3,Monday
+FashionFoward,Update README.md,2024-11-17T20:05:03Z,2024-11-17,20,Sunday
+FashionFoward,Update README.md,2024-11-17T19:48:53Z,2024-11-17,19,Sunday
+FashionFoward,Updated Readme,2024-11-17T19:46:33Z,2024-11-17,19,Sunday
+FashionFoward,main,2024-11-17T19:37:25Z,2024-11-17,19,Sunday
+FashionFoward,main,2024-11-17T17:38:39Z,2024-11-17,17,Sunday
+FlowState,Initial commit,2025-12-08T20:29:05Z,2025-12-08,20,Monday
+forage-midas,implementation of Kafka-based transaction processing system,2025-07-23T21:47:49Z,2025-07-23,21,Wednesday
+forage-midas,(~),2024-08-15T03:22:46Z,2024-08-15,3,Thursday
+free-cluely,Update README.md,2025-07-30T18:02:34Z,2025-07-30,18,Wednesday
+free-cluely,Merge pull request #17 from Rafee1100/fix/change-directory-folder-name,2025-07-06T10:28:25Z,2025-07-06,10,Sunday
+free-cluely,"Change directory says interview-coder but there is no name with that folder, Changed the command to cd free-cluely",2025-07-06T06:12:36Z,2025-07-06,6,Sunday
+free-cluely,Update README.md,2025-06-10T09:41:20Z,2025-06-10,9,Tuesday
+free-cluely,Update LICENSE,2025-06-10T07:53:00Z,2025-06-10,7,Tuesday
+free-cluely,Update README.md,2025-05-12T13:43:27Z,2025-05-12,13,Monday
+free-cluely,Update README.md,2025-05-07T03:26:17Z,2025-05-07,3,Wednesday
+free-cluely,Refactor WindowHelper to improve platform-specific behavior.,2025-05-05T05:34:22Z,2025-05-05,5,Monday
+free-cluely,"Implement image analysis feature in LLMHelper and ProcessingHelper, enhancing problem extraction from screenshots. Update IPC handlers and preload scripts to support new image analysis functionality. Add screenshot display in Solutions page.",2025-05-04T12:45:21Z,2025-05-04,12,Sunday
+free-cluely,"Add technical breakdown of ""Cluely"" app, detailing its functionality, backend communication, and ethical use cases",2025-05-04T12:14:20Z,2025-05-04,12,Sunday
+free-cluely,Remove unused icon files: icon-256x256.png and icon.ico,2025-05-04T08:03:14Z,2025-05-04,8,Sunday
+free-cluely,Enhance LLMHelper prompts for improved user interaction and response clarity,2025-05-04T07:00:11Z,2025-05-04,7,Sunday
+free-cluely,feat: cluely created,2025-05-04T03:36:30Z,2025-05-04,3,Sunday
+free-cluely,Initial commit,2025-05-04T03:26:21Z,2025-05-04,3,Sunday
+Hackman-ML,Merge pull request #5 from akshayag2005/main,2025-11-04T03:24:34Z,2025-11-04,3,Tuesday
+Hackman-ML,Merge branch 'stealthwhizz:main' into main,2025-11-03T19:17:04Z,2025-11-03,19,Monday
+Hackman-ML,analysis report added,2025-11-03T19:12:25Z,2025-11-03,19,Monday
+Hackman-ML,chore: Update final results and clean up temporary files,2025-11-03T18:56:16Z,2025-11-03,18,Monday
+Hackman-ML,refactor: Consolidate test data to single test.txt file,2025-11-03T18:54:28Z,2025-11-03,18,Monday
+Hackman-ML,Merge pull request #2 from akshayag2005/main,2025-11-03T18:41:27Z,2025-11-03,18,Monday
+Hackman-ML,docs: Add comprehensive Hackathon project report PDF,2025-11-03T18:34:03Z,2025-11-03,18,Monday
+Hackman-ML,refactor: Organize Python files into src/ package,2025-11-03T18:18:19Z,2025-11-03,18,Monday
+Hackman-ML,feat: Major refactoring and enhancements for Hangman ML project,2025-11-03T18:11:38Z,2025-11-03,18,Monday
+Hackman-ML,model accuracy increased,2025-11-03T09:29:17Z,2025-11-03,9,Monday
+Hackman-ML,report Added,2025-11-03T04:23:28Z,2025-11-03,4,Monday
+Hackman-ML,improved structure,2025-11-03T04:16:40Z,2025-11-03,4,Monday
+Hackman-ML,Merge pull request #1 from akshayag2005/main,2025-11-03T04:03:46Z,2025-11-03,4,Monday
+Hackman-ML,Added the Dataset file.,2025-11-03T04:00:10Z,2025-11-03,4,Monday
+Hackman-ML,Initial commit: Intelligent Hangman Agent with HMM + DQN hybrid approach,2025-11-03T03:56:31Z,2025-11-03,3,Monday
+Hackman-ML,Add files via upload,2025-11-03T03:48:07Z,2025-11-03,3,Monday
+Hackman-ML,Initial commit,2025-11-03T03:43:45Z,2025-11-03,3,Monday
+Hand-Sign-Detection,Update Readme.md,2025-08-09T07:20:55Z,2025-08-09,7,Saturday
+Hand-Sign-Detection,Add files via upload,2025-08-09T04:28:22Z,2025-08-09,4,Saturday
+Hand-Sign-Detection,Delete ReadMe.md,2025-08-09T04:28:06Z,2025-08-09,4,Saturday
+Hand-Sign-Detection,Delete README.md,2025-08-09T04:27:50Z,2025-08-09,4,Saturday
+Hand-Sign-Detection,Merge pull request #1 from dexPagma/patch-1,2025-06-17T10:47:12Z,2025-06-17,10,Tuesday
+Hand-Sign-Detection,Create ReadMe.md,2025-06-17T10:44:38Z,2025-06-17,10,Tuesday
+Hand-Sign-Detection,Update README.md,2024-10-03T15:22:20Z,2024-10-03,15,Thursday
+Hand-Sign-Detection,Update README.md,2024-10-03T15:21:52Z,2024-10-03,15,Thursday
+Hand-Sign-Detection,2,2024-09-01T10:42:35Z,2024-09-01,10,Sunday
+Hand-Sign-Detection,HELLO,2024-09-01T10:42:04Z,2024-09-01,10,Sunday
+Hand-Sign-Detection,Initial commit,2024-07-13T10:14:11Z,2024-07-13,10,Saturday
+id.card,Update README.md,2025-07-15T20:15:43Z,2025-07-15,20,Tuesday
+id.card,id.card 1,2025-07-15T20:14:46Z,2025-07-15,20,Tuesday
+id.card,Initial commit,2025-07-15T16:34:06Z,2025-07-15,16,Tuesday
+InterviewQuest,Banner,2025-12-08T19:09:22Z,2025-12-08,19,Monday
+InterviewQuest,Cover Image,2025-12-08T19:08:12Z,2025-12-08,19,Monday
+InterviewQuest,Added Cover Image,2025-12-08T19:05:40Z,2025-12-08,19,Monday
+InterviewQuest,UI Improved,2025-12-06T08:43:11Z,2025-12-06,8,Saturday
+InterviewQuest,Remove sensitive test files,2025-12-06T07:45:13Z,2025-12-06,7,Saturday
+InterviewQuest,Initial commit,2025-12-06T07:41:19Z,2025-12-06,7,Saturday
+InterviewQuest,InterviewQuest complete,2025-12-06T07:36:58Z,2025-12-06,7,Saturday
+InterviewQuest,Initial commit,2025-12-05T18:07:14Z,2025-12-05,18,Friday
+ping-pong,"chore: add .gitignore (ignore caches, venvs, editor settings)",2025-10-10T04:32:27Z,2025-10-10,4,Friday
+ping-pong,"Ping Pong: robust collisions, game states (game over + replay menu), optional sounds, README refresh",2025-10-10T04:29:56Z,2025-10-10,4,Friday
+ping-pong,Update README to emphasize ChatGPT usage,2025-10-05T13:55:27Z,2025-10-05,13,Sunday
+ping-pong,Update README to highlight ChatGPT usage,2025-10-05T13:55:08Z,2025-10-05,13,Sunday
+ping-pong,Update README.md,2025-10-05T13:54:23Z,2025-10-05,13,Sunday
+ping-pong,Updated after merge,2025-10-05T13:28:50Z,2025-10-05,13,Sunday
+ping-pong,Delete PROMPT_BUGS_EXPLANATION.md,2025-10-05T13:28:16Z,2025-10-05,13,Sunday
+ping-pong,Delete IMPLEMENTATION_SUMMARY.md,2025-10-05T13:27:59Z,2025-10-05,13,Sunday
+ping-pong,Improved,2025-10-05T13:27:15Z,2025-10-05,13,Sunday
+ping-pong,Add implementation summary documentation,2025-10-05T13:21:35Z,2025-10-05,13,Sunday
+ping-pong,Add subtle buggy prompts for each task in README,2025-10-05T13:20:44Z,2025-10-05,13,Sunday
+ping-pong,Initial plan,2025-10-05T13:16:09Z,2025-10-05,13,Sunday
+ping-pong,Update game_engine.py,2025-07-15T16:36:54Z,2025-07-15,16,Tuesday
+ping-pong,Update README.md,2025-07-15T16:36:18Z,2025-07-15,16,Tuesday
+ping-pong,Update main.py,2025-07-15T16:35:06Z,2025-07-15,16,Tuesday
+ping-pong,Update requirements.txt,2025-07-15T16:34:05Z,2025-07-15,16,Tuesday
+ping-pong,Delete THO directory,2025-07-15T16:33:08Z,2025-07-15,16,Tuesday
+ping-pong,FDP Test Run,2025-07-03T06:15:34Z,2025-07-03,6,Thursday
+ping-pong,Teacher's Hand Out,2025-07-03T06:14:41Z,2025-07-03,6,Thursday
+ping-pong,FDP Test Run,2025-07-03T06:14:04Z,2025-07-03,6,Thursday
+ping-pong,Initial commit,2025-07-03T06:10:59Z,2025-07-03,6,Thursday
+portfolio-web,ref changes,2025-04-03T05:21:58Z,2025-04-03,5,Thursday
+portfolio-web,Updates skills,2025-04-03T05:16:33Z,2025-04-03,5,Thursday
+portfolio-web,Merge branch 'main' of https://github.com/stealthwhizz/portfolio-web,2025-03-14T05:34:21Z,2025-03-14,5,Friday
+portfolio-web,changes on title and footer,2025-03-14T05:34:18Z,2025-03-14,5,Friday
+portfolio-web,Update README.md,2025-03-14T05:18:03Z,2025-03-14,5,Friday
+portfolio-web,mail,2025-03-12T04:45:18Z,2025-03-12,4,Wednesday
+portfolio-web,Merge branch 'main' of https://github.com/stealthwhizz/my-display-space,2025-03-12T04:26:57Z,2025-03-12,4,Wednesday
+portfolio-web,new,2025-03-12T04:26:38Z,2025-03-12,4,Wednesday
+portfolio-web,Enable mail functionality,2025-03-12T04:21:44Z,2025-03-12,4,Wednesday
+portfolio-web,Fix type errors in components,2025-03-12T03:56:13Z,2025-03-12,3,Wednesday
+portfolio-web,Create personal portfolio website,2025-03-12T03:54:54Z,2025-03-12,3,Wednesday
+portfolio-web,Use tech stack vite_react_shadcn_ts,2025-03-12T03:51:51Z,2025-03-12,3,Wednesday
+Prime-Listing,Update README.md,2025-08-09T07:21:45Z,2025-08-09,7,Saturday
+Prime-Listing,Updated Readme,2025-08-09T04:23:47Z,2025-08-09,4,Saturday
+Prime-Listing,Real-Estate Management,2025-07-19T20:04:30Z,2025-07-19,20,Saturday
+Prime-Listing,Initial commit,2025-07-19T20:03:05Z,2025-07-19,20,Saturday
+PRisma,Delete README.md,2025-08-09T04:37:59Z,2025-08-09,4,Saturday
+PRisma,Add files via upload,2025-08-09T04:37:38Z,2025-08-09,4,Saturday
+PRisma,updatd backend and core,2025-07-26T06:18:28Z,2025-07-26,6,Saturday
+PRisma,2,2025-07-26T04:19:44Z,2025-07-26,4,Saturday
+PRisma,1,2025-07-26T03:12:58Z,2025-07-26,3,Saturday
+PRisma,Update README.md,2025-07-26T02:37:38Z,2025-07-26,2,Saturday
+PRisma,Update README.md,2025-07-26T02:35:54Z,2025-07-26,2,Saturday
+PRisma,Update README.md,2025-07-26T02:25:50Z,2025-07-26,2,Saturday
+PRisma,Update README.md,2025-07-25T18:02:05Z,2025-07-25,18,Friday
+PRisma,Update README.md,2025-07-25T18:01:25Z,2025-07-25,18,Friday
+PRisma,Update README.md,2025-07-25T17:52:37Z,2025-07-25,17,Friday
+PRisma,Update README.md,2025-07-25T17:47:17Z,2025-07-25,17,Friday
+PRisma,Initial commit,2025-07-25T17:44:58Z,2025-07-25,17,Friday
+QRollCall,Final working,2025-11-14T07:17:02Z,2025-11-14,7,Friday
+QRollCall,API Documentation,2025-11-13T12:35:21Z,2025-11-13,12,Thursday
+QRollCall,system-tests,2025-11-13T12:23:03Z,2025-11-13,12,Thursday
+QRollCall,graphical analytics,2025-11-11T15:30:27Z,2025-11-11,15,Tuesday
+QRollCall,Notification Service added,2025-11-11T11:33:46Z,2025-11-11,11,Tuesday
+QRollCall,subject-wise-view-with-student-dashboard,2025-11-11T11:17:10Z,2025-11-11,11,Tuesday
+QRollCall,attendance-calculation,2025-11-09T03:51:13Z,2025-11-09,3,Sunday
+QRollCall,Attendance Core: Mark & Edit Attendance with Audit Logging,2025-11-07T04:41:03Z,2025-11-07,4,Friday
+QRollCall,Authentication Unit Tests,2025-11-06T15:48:40Z,2025-11-06,15,Thursday
+QRollCall, Role-Based Access Control,2025-11-06T14:41:08Z,2025-11-06,14,Thursday
+QRollCall,JWT Authentication Implementation,2025-11-06T14:11:33Z,2025-11-06,14,Thursday
+QRollCall,Database Schema,2025-11-06T13:42:25Z,2025-11-06,13,Thursday
+QRollCall,Authentication,2025-11-06T13:29:43Z,2025-11-06,13,Thursday
+QRollCall,Update README.md,2025-08-12T07:07:27Z,2025-08-12,7,Tuesday
+QRollCall,Update README.md,2025-08-12T07:02:45Z,2025-08-12,7,Tuesday
+QRollCall,Initial commit,2025-08-12T07:02:28Z,2025-08-12,7,Tuesday
