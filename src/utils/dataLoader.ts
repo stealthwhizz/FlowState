@@ -87,7 +87,7 @@ export function validateCorrelationData(data: any): data is CorrelationData {
 
 export async function loadCorrelations(): Promise<CorrelationData> {
   try {
-    const response = await fetch('/correlations.json');
+    const response = await fetch('./correlations.json');
     
     if (!response.ok) {
       throw new Error(`Failed to fetch correlations.json: ${response.status} ${response.statusText}`);
