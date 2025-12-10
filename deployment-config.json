@@ -1,0 +1,14 @@
+{
+  "github": {
+    "url": "https://stealthwhizz.github.io/FlowState/",
+    "base": "/FlowState/",
+    "command": "npm run deploy"
+  },
+  "s3": {
+    "bucket": "flowstate-stealthwhizz",
+    "region": "ap-south-1",
+    "url": "http://flowstate-stealthwhizz.s3-website.ap-south-1.amazonaws.com",
+    "base": "/",
+    "command": "npm run deploy:s3"
+  }
+}

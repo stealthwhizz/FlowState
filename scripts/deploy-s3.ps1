@@ -35,9 +35,9 @@ try {
     exit 1
 }
 
-# Build the project
-Write-Host "🔨 Building production version..." -ForegroundColor Yellow
-npm run build
+# Build the project for S3 (with base path "/")
+Write-Host "🔨 Building production version for S3..." -ForegroundColor Yellow
+npm run build:s3
 
 if (-not (Test-Path "dist")) {
     Write-Host "❌ Build failed - dist/ directory not found" -ForegroundColor Red

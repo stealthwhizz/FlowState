@@ -7,9 +7,12 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
+    "build:github": "tsc && vite build --base=/FlowState/",
+    "build:s3": "tsc && vite build --base=/",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build:github",
+    "deploy": "gh-pages -d dist",
+    "deploy:s3": "npm run build:s3 && powershell -ExecutionPolicy Bypass -File scripts/deploy-s3.ps1"
   },
   "dependencies": {
     "lucide-react": "^0.294.0",
