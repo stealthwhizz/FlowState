@@ -7,7 +7,7 @@ FlowState is a productivity analytics dashboard that correlates your YouTube wat
 ## 🚀 Live Demo
 
 - **AWS S3**: [http://flowstate-stealthwhizz.s3-website.ap-south-1.amazonaws.com](http://flowstate-stealthwhizz.s3-website.ap-south-1.amazonaws.com)
-- **GitHub Pages**: [https://stealthwhizz.github.io/flowstate](https://stealthwhizz.github.io/flowstate)
+- **GitHub Pages**: [https://stealthwhizz.github.io/FlowState/](https://stealthwhizz.github.io/FlowState/)
 
 ## 📸 Screenshots
 
