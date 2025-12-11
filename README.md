@@ -4,6 +4,25 @@
 
 FlowState is a productivity analytics dashboard that correlates your YouTube watch history with GitHub commit patterns to discover insights about your coding productivity. Visualize how your content consumption aligns with your development activity and optimize your workflow for peak performance.
 
+## 🚀 Live Demo
+
+- **AWS S3**: [http://flowstate-stealthwhizz.s3-website.ap-south-1.amazonaws.com](http://flowstate-stealthwhizz.s3-website.ap-south-1.amazonaws.com)
+- **GitHub Pages**: [https://stealthwhizz.github.io/flowstate](https://stealthwhizz.github.io/flowstate)
+
+## 📸 Screenshots
+
+### Main Dashboard
+![FlowState Dashboard](Images/main.png)
+
+### Productivity Insights
+![FlowState Analytics](Images/flowstate.png)
+
+### Correlation Analysis
+![FlowState Correlation](Images/flowstate2.png)
+
+### Architecture Overview
+![System Architecture](Images/arch.png)
+
 ## Features
 
 - **Timeline Visualization**: Interactive dual-axis chart showing YouTube videos watched and GitHub commits over time
@@ -150,5 +169,3 @@ flowstate-dashboard/
 - Check browser console for JavaScript errors
 
 ---
-
-*Built for Kiro Heroes Week 3: The Data Weaver*
