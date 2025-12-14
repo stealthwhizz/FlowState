@@ -23,6 +23,13 @@ FlowState is a productivity analytics dashboard that correlates your YouTube wat
 ### Architecture Overview
 ![System Architecture](Images/arch.png)
 
+### Tech Stack
+![Tech Stack](Images/techstack.png)
+
+## 🎥 Demo Video
+
+Watch Kiro working on making the MCP server: https://youtu.be/sqK0hvhUxl4
+
 ## Features
 
 - **Timeline Visualization**: Interactive dual-axis chart showing YouTube videos watched and GitHub commits over time
