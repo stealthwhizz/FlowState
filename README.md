@@ -22,11 +22,11 @@ FlowState is a productivity analytics dashboard that correlates your YouTube wat
 ![System Architecture](Images/arch.png)
 
 ### Tech Stack
-![Tech Stack](Images/techstack.png)
+![Tech Stack](Images/tech.png)
 
 ## 🎥 Demo Video
 
-Watch Kiro working on making the MCP server: https://youtu.be/sqK0hvhUxl4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sqK0hvhUxl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Features
 
