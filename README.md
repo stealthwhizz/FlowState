@@ -1,4 +1,5 @@
 # FlowState
+![FlowState ](Images/cover.png)
 
 **YouTube × GitHub Productivity Insights**
 
@@ -13,9 +14,6 @@ FlowState is a productivity analytics dashboard that correlates your YouTube wat
 
 ### Main Dashboard
 ![FlowState Dashboard](Images/main.png)
-
-### Productivity Insights
-![FlowState Analytics](Images/flowstate.png)
 
 ### Correlation Analysis
 ![FlowState Correlation](Images/flowstate2.png)
