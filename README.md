@@ -100,6 +100,256 @@ npm run dev
 
 Open your browser to `http://localhost:5173` to view your FlowState dashboard.
 
+## 🤖 MCP Server
+
+FlowState includes a Model Context Protocol (MCP) server that exposes productivity insights through standardized tools. Use these tools with your MCP client to programmatically query and analyze your productivity data.
+
+### Prerequisites
+
+- Python 3.10 or higher
+- MCP client compatible with STDIO transport
+
+### Installation
+
+Install the MCP server dependencies:
+
+```bash
+pip install 'mcp[cli]>=0.9.0'
+```
+
+### Running the MCP Server
+
+Start the server with:
+
+```bash
+python scripts/mcp_server.py
+```
+
+You should see output like:
+
+```
+✓ Correlation data loaded successfully
+  - Timeline entries: 45
+  - Total commits: 127
+  - Total music sessions: 89
+  - Total videos: 34
+  - Best pattern: both
+
+Server initialized successfully
+Available tools:
+  - get_best_hours: Analyze optimal coding hours based on historical patterns
+  - get_flow_state_pattern: Identify optimal music/video pattern for maximum productivity
+  - analyze_productivity: Analyze productivity metrics for a specific date (YYYY-MM-DD)
+  - get_music_impact: Analyze the impact of background music on coding productivity
+  - predict_commits: Predict commit count based on planned music hours and video minutes
+Available resources:
+  - flowstate://dashboard: Access to FlowState dashboard (S3 or localhost fallback)
+```
+
+### Available Tools
+
+#### 1. `get_best_hours` - Analyze Optimal Coding Hours
+
+Analyzes your historical data to identify the best hours for coding based on day-of-week patterns.
+
+**No parameters required**
+
+**Response:**
+```json
+{
+  "best_hours": [
+    {
+      "hour": 20,
+      "avg_commits": 4.0,
+      "day_pattern": "weekday"
+    }
+  ],
+  "recommendation": "Peak productivity on weekday evenings (8-10 PM). Average 10.0 commits on productive weekdays.",
+  "data_note": "Insights derived from day-of-week patterns..."
+}
+```
+
+#### 2. `get_flow_state_pattern` - Identify Optimal Productivity Pattern
+
+Analyzes correlations between music/video consumption and commits to find your optimal flow state pattern.
+
+**No parameters required**
+
+**Response:**
+```json
+{
+  "pattern": "both",
+  "avg_commits": 8.5,
+  "boost_percentage": "+42.5%",
+  "recommendation": "Use both music and videos for optimal productivity. The synergy between audio and visual content creates the best flow state.",
+  "baseline_avg": 5.97,
+  "days_analyzed": 15,
+  "total_patterns": 4
+}
+```
+
+#### 3. `analyze_productivity` - Analyze Specific Date
+
+Analyzes your productivity metrics for a specific date (YYYY-MM-DD format).
+
+**Parameters:**
+- `date` (string, required): Date in YYYY-MM-DD format (e.g., "2024-01-15")
+
+**Response:**
+```json
+{
+  "date": "2024-01-15",
+  "music_count": 3,
+  "video_count": 2,
+  "commit_count": 8,
+  "productivity_score": 4.6,
+  "productivity_level": "Moderate",
+  "calculation_note": "Score = (commits×3 + music×1 + videos×1) ÷ 5"
+}
+```
+
+**Error Response:**
+```json
+{
+  "error": "Invalid date format. Use YYYY-MM-DD",
+  "error_code": "INVALID_DATE_FORMAT",
+  "suggestion": "Provided: 'invalid-date', Expected format: 'YYYY-MM-DD', Example: '2024-01-15'"
+}
+```
+
+#### 4. `get_music_impact` - Analyze Music's Impact on Productivity
+
+Compares your commit patterns on days with and without background music.
+
+**No parameters required**
+
+**Response:**
+```json
+{
+  "music_boost_percentage": "+35.2%",
+  "days_with_music": 12,
+  "days_without_music": 8,
+  "avg_commits_with_music": 8.42,
+  "avg_commits_without_music": 6.23,
+  "recommendation": "Music significantly boosts productivity! Consider listening to music while coding for optimal performance.",
+  "analysis_context": {
+    "total_days_analyzed": 20,
+    "music_usage_percentage": "60.0%",
+    "confidence": "high"
+  }
+}
+```
+
+#### 5. `predict_commits` - Predict Commit Count
+
+Predicts your likely commit count based on planned music hours and video minutes.
+
+**Parameters:**
+- `music_hours` (float, required): Number of hours of music (must be non-negative)
+- `video_minutes` (float, required): Number of minutes of videos (must be non-negative)
+
+**Example:**
+```bash
+predict_commits 2.5 45
+```
+
+**Response:**
+```json
+{
+  "predicted_commits": 9.2,
+  "confidence_level": "high",
+  "factors_considered": [
+    "historical_music_impact",
+    "video_consumption_patterns",
+    "base_productivity",
+    "correlation_analysis",
+    "sufficient_historical_data"
+  ],
+  "prediction_context": {
+    "music_coefficient": 2.456,
+    "video_coefficient": 0.142,
+    "historical_data_points": 45,
+    "avg_historical_music": 1.8,
+    "avg_historical_videos": 38.5
+  },
+  "input_validation": {
+    "music_hours": 2.5,
+    "video_minutes": 45,
+    "parameters_valid": true
+  }
+}
+```
+
+### Resources
+
+#### `flowstate://dashboard`
+
+Access to your FlowState dashboard. Returns the S3 URL if `FLOWSTATE_DASHBOARD_URL` is configured, otherwise returns localhost fallback.
+
+**Response:**
+```json
+{
+  "url": "http://localhost:5173",
+  "metadata": {
+    "description": "FlowState Dashboard - Interactive visualization of productivity insights...",
+    "content_type": "text/html",
+    "last_modified": "2024-01-15T10:30:00.000Z",
+    "deployment_type": "development",
+    "resource_type": "dashboard",
+    "version": "1.0.0"
+  }
+}
+```
+
+### MCP Client Configuration
+
+To integrate the FlowState MCP server with your MCP client, add this configuration:
+
+**Claude (claude_desktop_config.json):**
+```json
+{
+  "mcpServers": {
+    "flowstate": {
+      "command": "python",
+      "args": ["/path/to/FlowState/scripts/mcp_server.py"],
+      "env": {
+        "FLOWSTATE_DASHBOARD_URL": "https://your-s3-bucket.s3-website-region.amazonaws.com"
+      }
+    }
+  }
+}
+```
+
+### Environment Variables
+
+- `FLOWSTATE_DASHBOARD_URL` (optional): S3 URL for your deployed FlowState dashboard. If not set, defaults to `http://localhost:5173`
+
+### Error Handling
+
+All tools provide consistent error responses with helpful suggestions:
+
+```json
+{
+  "error": "Insufficient data for meaningful analysis",
+  "error_code": "INSUFFICIENT_DATA",
+  "suggestion": "Collect more data by running the FlowState pipeline over several days (current: 2 days, need: 5+)"
+}
+```
+
+### Troubleshooting
+
+**"Correlation data not found"**
+- Ensure you've run the data processing pipeline: `python scripts/correlate_data.py`
+- Verify `public/correlations.json` exists and contains valid data
+
+**"Insufficient data for meaningful analysis"**
+- The analysis requires a minimum amount of historical data
+- Run the FlowState pipeline over several more days to collect more data
+
+**"Invalid date format"**
+- Use the format YYYY-MM-DD (e.g., 2024-01-15)
+- Ensure the date exists in your timeline data
+
 ## Deployment Instructions
 
 ### Build for Production
