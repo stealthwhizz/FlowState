@@ -24,10 +24,6 @@ FlowState is a productivity analytics dashboard that correlates your YouTube wat
 ### Tech Stack
 ![Tech Stack](Images/tech.png)
 
-## 🎥 Demo Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sqK0hvhUxl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Features
 
 - **Timeline Visualization**: Interactive dual-axis chart showing YouTube videos watched and GitHub commits over time
