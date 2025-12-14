@@ -22,7 +22,7 @@ FlowState is a productivity analytics dashboard that correlates your YouTube wat
 ![System Architecture](Images/arch.png)
 
 ### Tech Stack
-![Tech Stack](Images/techstack.png)
+![Tech Stack](Images/tech.png)
 
 ## 🎥 Demo Video
 
